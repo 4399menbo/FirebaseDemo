@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1034541891736",
+    "firebase_url": "https://fir-d13c6-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-d13c6",
+    "storage_bucket": "fir-d13c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034541891736:android:a568f4ff3e184a1f3410ed",
+        "android_client_info": {
+          "package_name": "gm.pu.edu.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034541891736-i3jpijulo4otb9l9ref1f2uob6etgi7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD35qMnE-hN2wFT-0j_DW1RnwCBIX_Z3ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034541891736-i3jpijulo4otb9l9ref1f2uob6etgi7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
